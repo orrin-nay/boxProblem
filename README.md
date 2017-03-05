@@ -3,8 +3,8 @@ This project is based on this video
 https://www.youtube.com/watch?v=eivGlBKlK6M
 
 The Premise is that if you take 100 people and tell them they have to find their number
-in one of 100 boxes with theirs and the other 99 peoples numbers them your odds go from
-(1/2)^100 to about 30% of the chosen the box that has their number on it and go to the box
+in one of 100 boxes with theirs and the other 99 peoples numbers the groups odds of winning go from
+(1/2)^100 to about 30% if they choose the box that has their number on it and go to the box
 that has the number on it that was contained in the last box until they find their number.
 Just watch the video ;)
 
